@@ -20,7 +20,7 @@ class ConTrader(tpqoa.tpqoa):
         self.tsl_perc = tsl_perc 
         self.tp_perc = tp_perc 
         
-        #*****************add strategy-specific attributes here******************
+       
         self.window = window
         #************************************************************************
     
